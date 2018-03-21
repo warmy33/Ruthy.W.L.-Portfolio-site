@@ -96,7 +96,7 @@ button:hover {
 	width: 60%;
 	float: left;
 	font-family: "verdana", "arial", sans-serif;
-	color: #DBAB03;
+	color: #009999;
 	margin-top: 20px;
 	padding-bottom: 35px;
 }
@@ -200,13 +200,13 @@ button:hover {
 
 /*footer*/
 .footer {
-	background-color: #734604;
+	background-color: #009999;
 	height: 40px;
 	padding-top: 10px;
 }
 .copyright {
 	text-align: center;
-	background-color: #734604;
+	background-color: #009999;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
